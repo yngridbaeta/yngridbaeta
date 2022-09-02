@@ -23,7 +23,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   
-   ![Snake animation](https://github.com/xvitoria/xvitoria/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/yngridbaeta/yngridbaeta/blob/output/github-contribution-grid-snake.svg)
   <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/xvitoria/count.svg" /></p>
  
 </div>
