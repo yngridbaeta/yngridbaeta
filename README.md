@@ -1,4 +1,4 @@
-### Hello! My name is Yngrid. 👋
+### Hello! My name is Yngrid. 
  
 <img align="right" alt="vivi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84752394/187918796-2bbf74ed-b58c-46e9-8666-0f7dbd0313a4.png"> 
     
