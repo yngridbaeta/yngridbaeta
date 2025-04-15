@@ -1,7 +1,7 @@
 ### Hello! My name is Yngrid. 
  
 <img align="right" alt="vivi-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/84752394/187918796-2bbf74ed-b58c-46e9-8666-0f7dbd0313a4.png"> 
-    
+      
     
   [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yngridbaeta/)
   <a href = "mailto:baetayngrid@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
