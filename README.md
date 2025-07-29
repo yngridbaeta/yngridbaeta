@@ -24,6 +24,6 @@
    
   ##
   
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/xvitoria/count.svg" /></p>
+  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/yngridbaeta/count.svg" /></p>
  
 </div>
